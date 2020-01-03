@@ -21,4 +21,4 @@ import 'vue-spreadsheets/lib/vue-spreadsheets.css'
 Vue.use(vueSpreadsheets)
 ```
 ### Document & demo
-Find more from the [doc](https://cli.vuejs.org/config/).
+Find more from the [doc](https://llystar.github.io/vue-spreadsheets/dist/).
